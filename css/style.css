@@ -1,0 +1,52 @@
+body{
+    background-color: #F5F5F5;
+}
+.container{
+    background-color: white;
+    padding-bottom: 20px;
+}
+.avis{
+    border: 1px solid #DCDCDC;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.pseudo{
+    background-color: dodgerblue;
+    color: white;
+    margin: -15px -15px 0 -15px;
+    padding: 15px 15px 0 15px;
+    font-weight: bold;
+    border-radius: 5px 5px 0 0;
+}
+.date{
+    float: right;
+    top: 0;
+    color: white;
+}
+.form-avis{
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid #DCDCDC;
+}
+.form-avis .form-control{
+    margin-top: 15px;
+}
+.form-avis .btn{
+    margin-top: 15px;
+}
+.tri{
+    margin-left: 15px;
+}
+.sort{
+    margin: 5px;
+}
+.error{
+    color: red;
+    margin-bottom: 10px;
+}
+.tri .form-control{
+    width: 15%;
+    border-color: #007bff;
+    color: #007bff;
+}
